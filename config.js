@@ -63,8 +63,8 @@ global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/ERC3b6llhjk0Kt4
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
 global.fgyt = 'https://chat.whatsapp.com/ERC3b6llhjk0Kt4WKXkNov'
 global.fgpyp = 'https://chat.whatsapp.com/ERC3b6llhjk0Kt4WKXkNov'
-global.fglog = 'https://telegra.ph/file/51b722d077c6a064f4846.jpg' 
-global.thumb = fs.readFileSync('./https://telegra.ph/file/51b722d077c6a064f4846.jpg')
+global.fglog = 'STAR.jpg' 
+global.thumb = fs.readFileSync('./STAR.jpg')
 
 
 global.wait = '*🕣 _𝛮𝛩𝐵𝛪𝑇𝛥 IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
