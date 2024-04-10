@@ -7,18 +7,18 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['2347045035241', 'EXCEL', true], 
-  ['234802179696', 'EXCEL', true], 
-  ['07045035241', '⚡Excel', true],
-  ['2347045035241', 'Excel', true] ]
+  ['923014523312', 'EXCEL', true], 
+  ['923014523312', 'EXCEL', true], 
+  ['923014523312', '⚡Excel', true],
+  ['923241851730', 'Excel', true] ]
 
  //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['2341', '2348021779696', '2347045035241','233533763772'] 
-global.prems = ['2347045035241','233208179431','233533763772']
-global.allowed = ['2348021779696', '2347045035241','233533763772']
+global.mods = ['923014523312', '923241851730'] 
+global.prems = ['923014523312', '923241851730']
+global.allowed = ['923014523312', '923241851730']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -53,29 +53,29 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'STAR-MD-V2'
+global.botname = '𝛮𝛩𝐵𝛪𝑇𝛥 𝑇𝑅𝛪𝐶𝛫𝑆-MD-V2'
 global.premium = 'true'
-global.packname = 'STAR-MD' 
+global.packname = 'Asad-MD' 
 global.author = 'Excel' 
 global.menuvid = 'https://i.imgur.com/XoR37ew.mp4'
-global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs\n'
+global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaKyuokJUM2czbuM1M09\n' 
+global.dygp='▢✓ Follow My channel\nhttps://chat.whatsapp.com/ERC3b6llhjk0Kt4WKXkNov\n'
 global.fgsc = 'https://github.com/Xcelsama/STAR-MD-V2' 
-global.fgyt = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fgpyp = 'https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK'
-global.fglog = 'STAR.jpg' 
-global.thumb = fs.readFileSync('./STAR.jpg')
+global.fgyt = 'https://chat.whatsapp.com/ERC3b6llhjk0Kt4WKXkNov'
+global.fgpyp = 'https://chat.whatsapp.com/ERC3b6llhjk0Kt4WKXkNov'
+global.fglog = 'https://telegra.ph/file/51b722d077c6a064f4846.jpg' 
+global.thumb = fs.readFileSync('./https://telegra.ph/file/51b722d077c6a064f4846.jpg')
 
 
-global.wait = '*🕣 _STAR IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
+global.wait = '*🕣 _𝛮𝛩𝐵𝛪𝑇𝛥 IS LOADING..._*\n*▰▰▰▱▱▱▱▱🕗*'
 global.rwait = '🔜'
-global.dmoji = '⚡'
+global.dmoji = '❤️'
 global.done = '☑️'
 global.error = '❎' 
 global.xmoji = '⤵️' 
 
 global.multiplier = 69 
-global.maxwarn = '3' // máxima advertencias
+global.maxwarn = '2' // máxima advertencias
 
 let file = fileURLToPath(import.meta.url)
 watchFile(file, () => {
