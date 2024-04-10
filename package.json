@@ -1,5 +1,5 @@
 {
-    "name": "starbot",
+    "name": "𝛮𝛩𝐵𝛪𝑇𝛥 𝑇𝑅𝛪𝐶𝛫𝑆",
     "version": "2.0.0",
     "description": "Advanced WhatsApp Bot",
     "main": "index.js",
@@ -19,22 +19,22 @@
         "whatsapp",
         "js-whatsapp",
         "whatsapp",
-        "guru-bot",
-        "GURU-bot-md",
+        "𝛮𝛩𝐵𝛪𝑇𝛥 𝑇𝑅𝛪𝐶𝛫𝑆-bot",
+        "𝛮𝛩𝐵𝛪𝑇𝛥 𝑇𝑅𝛪𝐶𝛫𝑆-md",
         "multi-device",
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/Guru322/GURU-BOT",
+    "homepage": "https://github.com/",
     "author": {
-        "name": "GURU"
+        "name":"MrAsad"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Xcelsama/STAR-MD-V2.git"
+        "url": "git+https://github.com/"
     },
     "bugs": {
-        "url": "https://github.com/Xcelsama/STAR-MD-V2/issues"
+        "url": "https://github.com/"
     },
     "license": "Apache License 2.0",
     "dependencies": {
